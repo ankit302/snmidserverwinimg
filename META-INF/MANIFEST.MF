@@ -1,0 +1,30 @@
+Manifest-Version: 1.0
+Created-By: 1.8.0_312 (Private Build)
+
+Name: Dockerfile
+SHA-256-Digest: T5mpTHL2oN4qAgFyQrb+VMxyasi6aegtD/QhNIv+2nY=
+
+Name: asset/download.ps1
+SHA-256-Digest: Fyk6DBoLfVqcbOtpaXXuSA3IeW7IOPsV6Uq5qKF7ZNo=
+
+Name: ServiceNow Open Source Disclosure - MID Server.pdf
+SHA-256-Digest: G5AGDtUe7j9C8FZtoQzHYOhoRNSfHW35/ExGLySkowg=
+
+Name: .env
+SHA-256-Digest: NSvGVUf9wM+LXkmWsK3CB0WCwNzpyeFrt3kbV3REzTk=
+
+Name: asset/.container
+SHA-256-Digest: HhkVm7eCVQVw5YaA8Q3+NsQ6Y/sVklEfIVM1i5vKLzI=
+
+Name: EULA - MID Server.pdf
+SHA-256-Digest: 6OjN9sw9Cb0epKRQL80bv1Qs/hCGA90cg+1xE1Ordsg=
+
+Name: asset/init.ps1
+SHA-256-Digest: 1zpRH0qa4Qcj6ccH8Gq8EKBTC42wO4FRx/e8LwSwT6s=
+
+Name: asset/healthcheck.ps1
+SHA-256-Digest: cmNTJL43KJMs+4EhY4eLApQ5eKFL5o9UbWeOurq1OZ8=
+
+Name: asset/install.ps1
+SHA-256-Digest: PBJVKtb7mNa3uoX9qRg+5Pn/GCz2mylY0AW7pzIrjn0=
+
